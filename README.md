@@ -1,15 +1,15 @@
-# Code Refactor Starter Code
-Brief description of project
-# <Hornbaker.Alan.urban-octo-telegram>
+# Module 2 Project
+Module 2 Project - Professional Portfolio
 
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- The motivation for this project is the need to display the work that I am capa.
+- The motivation for this project is the need to display my skills and work value to potential employers.
 
-- The project was built to market the benefits of Search Engine Optimization to a target market, and also lay out the products and services that HORISEON provides, displaying problem and solution together to communicate value.  
-- What problem does it solve?
+- The project was built to market myself and my skills to potential employers, as well as networking within the developer community in general.  
+
+- It solves problem of being unable to connect with employers and other developers unless I leave my house.
 
 - During this project, I learned many new things, including:
     -How to create github repositories and initialize them with my local machine.
