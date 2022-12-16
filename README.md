@@ -12,22 +12,20 @@ Provide a short description explaining the what, why, and how of your project. U
 - It solves problem of being unable to connect with employers and other developers unless I leave my house.
 
 - During this project, I learned many new things, including:
-    -How to create github repositories and initialize them with my local machine.
-    --Learned about putting the theories of git/github into practice.  
-	Creating and initializing repositories,staging commits, pushing to repository,
-	etc, to have functional version control.
+    -If I make changes to the html file, how to I need to adjust the css file to keep things working the way I want to.
 
-	-Learned about semantic HTML elements, structuring the file logically. etc.
+	-
 
-	-Played around with making changes to the HTML file to adjust the structure
-	of the webpage, and the CSS file to adjust the style of the webpage.
+	-
 
-	-Assessed the purpose of the webpage, made bonus changes to stlying sheets to
-	draw more attention to the name of the company, and how it ties in with their
-	products and services. (Adjusted color of "SEO" in the main header to be darker
-	and bring out the contrast, drawing more attention to the acronym.
-	The original wasn't different enough to easily draw the users attention to that
-	feature of the website.
+## Further Development
 
-## Screenshots of Webpage
+As I develop this project, I would like to adjust the styling so that it looks more unique, eye-catching, etc. 
+I want it to have "tea" from both a visual standpoint and a functionality standpoint.
+	** By having "tea", I'm refering to the Eastern Civilization concept of beauty/artfullness, pleasurableness of use, etc.
+	I.E. One reason Apple products became popular because they have a certain kind of "tea". Simplicity, ease of use to the user, zen stlying, etc.**
+
+As I develop this project, I would like t0 structure the webpage so that what is currently the benefits section becomes a window within a window where the user can scroll through my various projects.  
+
+As I develop this project, I would like to add a message section, where the user can type me a message in a field, hit send, and that message gets sent to my email inbox; this will improve to the user experience by allowing them to reach out to me without copying my email address, navigating to their email, pasting my address, THEN typing a message, etc.
 

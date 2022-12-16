@@ -19,8 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-/* Made the color darker to contrast more with the rest of the title text, make it more visibly obvious
-that we are trying to draw attention to the SEO acronym.*/
+/* TO DO: Perhaps get rid of this section.  There's no need to make the A a darker color, not drawing attention to an acronym.*/
 .header h1 .A {
     color: #928787dd;
 }
@@ -55,6 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    /*TO DO: Get some more professional headshots, so the user isn't seeing my pores, nose hairs, etc */
     background-image: url("../images/Profile\ Pic.jpg");
     background-size: cover;
     background-position: center;
